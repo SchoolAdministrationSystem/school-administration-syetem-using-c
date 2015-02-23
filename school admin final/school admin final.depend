@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1420835177 source:c:\codeblocks\projects\school admin final\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420830378 source:c:\codeblocks\projects\school admin final\mainmenu.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420921917 source:c:\codeblocks\projects\school admin final\login.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1419587473 source:c:\codeblocks\projects\school admin final\temporary.c
+
+1419709861 source:c:\codeblocks\projects\school admin final\admissionmodule.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420827420 source:c:\codeblocks\projects\school admin final\studentadmissionmodule.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420923019 source:c:\codeblocks\projects\school admin final\validate.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420829933 source:c:\codeblocks\projects\school admin final\class_eligibility.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420827459 source:c:\codeblocks\projects\school admin final\idgenerator.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1420921353 source:c:\codeblocks\projects\school admin final\continue_choice.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420926453 source:c:\codeblocks\projects\school admin final\student_personal_data.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1419536212 source:c:\codeblocks\projects\school admin final\student_management.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420922998 source:c:\codeblocks\projects\school admin final\view_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1413038286 source:c:\codeblocks\projects\school admin final\teachadmisiion.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420828546 source:c:\codeblocks\projects\school admin final\teacher_admission_module.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1419712960 source:c:\codeblocks\projects\school admin final\teacherclasses.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420827454 source:c:\codeblocks\projects\school admin final\teachercourses.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420827454 source:c:\codeblocks\projects\school admin final\teacheridgenerator.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
+1420827454 source:c:\codeblocks\projects\school admin final\teachersubject.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1420922265 source:c:\codeblocks\projects\school admin final\teachidgenerator1.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
